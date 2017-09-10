@@ -13,7 +13,7 @@
 (ann ^:no-check clojure.data.json/read-str [Any * -> Any])
 
 (ann base-url String)
-(def base-url "https://trello.com/1/")
+(def base-url "https://trello.com/")
 
 (ann authorize-url String)
 (def authorize-url "https://trello.com/1/authorize")
